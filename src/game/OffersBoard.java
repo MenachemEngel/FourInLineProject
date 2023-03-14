@@ -57,6 +57,26 @@ public class OffersBoard extends BoardDecorator{
     public void setBorder(int rows, int columns){
         char [][] oldBoard = getBoard();
         decoratorBoard.setBoard(new char[rows][columns]);
+        switch (rows){
+            case 5:
+                background = "cyan";
+                break;
+            case 6:
+                background = "gray";
+                break;
+            case 7:
+                background = "green";
+                break;
+            case 8:
+                background = "orange";
+                break;
+            case 9:
+                background = "pink";
+                break;
+            case 10:
+                background = "yellow";
+                break;
+        }
         initBoard();
         int minCol = Math.min(decoratorBoard.getBoard()[0].length, oldBoard[0].length);
         int minRow = Math.min(decoratorBoard.getBoard().length, oldBoard.length);

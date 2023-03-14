@@ -1,56 +1,80 @@
-Player 1, Time for move: 495 milliseconds.
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
-|O| | | | | | |
+, Time for move: 1678782132972 milliseconds.
+Background Color green
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
 
-Player 2, Time for move: 1535 milliseconds.
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
-|X| | | | | | |
-|O| | | | | | |
+Player 1, Time for move: 7480 milliseconds.
+Background Color green
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | |O| | | | | |
 
-Player 1, Time for move: 720 milliseconds.
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
-|X| | | | | | |
-|O|O| | | | | |
+Player 2, Time for move: 0 milliseconds.
+Background Color green
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+|X| |O| | | | | |
 
-Player 2, Time for move: 1110 milliseconds.
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
-|X|X| | | | | |
-|O|O| | | | | |
+Player 1, Time for move: 2608 milliseconds.
+Background Color green
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+|X| |O|O| | | | |
 
-Player 1, Time for move: 1015 milliseconds.
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
-|X|X| | | | | |
-|O|O|O| | | | |
+Player 2, Time for move: 0 milliseconds.
+Background Color green
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+|X| | | | | | | |
+|X| |O|O| | | | |
 
-Player 2, Time for move: 369 milliseconds.
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
-|X|X|X| | | | |
-|O|O|O| | | | |
+Player 1, Time for move: 1295 milliseconds.
+Background Color green
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+|X| | | | | | | |
+|X| |O|O|O| | | |
 
-Player 1, Time for move: 567 milliseconds.
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
-|X|X|X| | | | |
-|O|O|O|O| | | |
+Player 2, Time for move: 1 milliseconds.
+Background Color green
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+|X| | | | | | | |
+|X| | | | | | | |
+|X| |O|O|O| | | |
+
+Player 1, Time for move: 2939 milliseconds.
+Background Color green
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+|X| | | | | | | |
+|X| | | | | | | |
+|X| |O|O|O|O| | |
 

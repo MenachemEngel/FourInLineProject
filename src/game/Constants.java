@@ -1,5 +1,8 @@
 package game;
 
+import java.awt.*;
+import java.util.HashMap;
+
 public class Constants {
     // board size
     public static final int ROWS = 6;
@@ -20,4 +23,13 @@ public class Constants {
     // the level menu
     public static final char EASY = '1';
     public static final char HARD = '2';
+
+    public static final HashMap<String, Color> colorList = new HashMap<String, Color>(){{
+        put("cyan", Color.CYAN);
+        put("gray", Color.GRAY);
+        put("green", Color.GREEN);
+        put("orange", Color.ORANGE);
+        put("pink", Color.PINK);
+        put("yellow", Color.YELLOW);
+    }};
 }

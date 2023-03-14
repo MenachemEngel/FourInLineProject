@@ -1,5 +1,7 @@
 package game;
 
+import com.google.gson.Gson;
+
 public class TextualView extends ViewsObserver {
 
     public TextualView(ViewsSubject viewsSubject){

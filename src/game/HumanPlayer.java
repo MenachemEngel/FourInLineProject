@@ -36,15 +36,14 @@ public class HumanPlayer implements IPlayerStrategy {
 
     @Override
     public void doOperation(IBoard board ,ViewsSubject viewsSubject) {
-        Scanner input = new Scanner(System.in);
         while(!Utilities.isRealCol(board, col, row ,viewsSubject)) {
-            try{
-                col = input.nextInt();
-            }catch (InputMismatchException e){
-                viewsSubject.setState("You have to to choose number.");
-                input.nextLine();
-                continue;
-            }
+            //try{
+                col = Controller.input.getInput(viewsSubject);
+            //}catch (InputMismatchException e){
+            //    viewsSubject.setState("You have to to choose number.");
+            //    input.nextLine();
+            //    continue;
+            //}
             if(col == 0) {
                 col-=2;
             }else{

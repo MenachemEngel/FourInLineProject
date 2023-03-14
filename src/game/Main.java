@@ -19,7 +19,7 @@ public class Main {
             }
         }*/
 
-        controller.play(TextualView.class.getName());
+        controller.play(GraphicalView.class.getName());
 
         //ProxyContextPlayer.close();
 

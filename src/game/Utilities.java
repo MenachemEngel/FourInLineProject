@@ -112,7 +112,7 @@ public class Utilities {
         // is this really a column number?
         if (col < 0 || col >= board.getBoard()[0].length){
             if(col != -1)
-                viewsSubject.setState("Illegal column number, try again");
+                viewsSubject.setState("Illegal column number,\n    try again");
             return false;
         }else {
             // find the row and check if winning
