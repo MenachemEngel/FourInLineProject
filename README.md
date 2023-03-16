@@ -9,5 +9,6 @@ The design patterns was used: Factory, Abstract Factory, Singelton, Proxy, Obser
 
 - [@MenachemEngel](https://www.github.com/MenachemEngel), [@Menachem Engel](https://www.linkedin.com/in/menachem-engel-73a533b0) 
 - [@hhefter](https://github.com/hhefter), [@Hadassah Hefter](https://www.linkedin.com/in/hadassah-hefter-3b94961a9)
-![UML](https://raw.githubusercontent.com/MenachemEngel/FourInALine.New1/assets/UML.png)
-![game](https://raw.githubusercontent.com/MenachemEngel/FourInALine.New1/assets/FourInALine.JPG)
+
+![UML](https://raw.githubusercontent.com/MenachemEngel/photos_folder/assets/UML.png)
+![game](https://raw.githubusercontent.com/MenachemEngel/photos_folder/assets/FourInALine.JPG)
