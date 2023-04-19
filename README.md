@@ -3,7 +3,7 @@
 In the M.Sc. program, this project is the final project for the ODD course.
 It uses the most design patterns possible and keeps the principles of OOP and SOLID.
 For the start we got basic Java code in main file, and we was need to turn it as most ODD possible.
-The design patterns was used: Factory, Abstract Factory, Singelton, Proxy, Observer, Flyweight, State, Decorator, Strategy, Visitor and more. The project is written in Java and some code in AspectJ, as required.
+The design patterns was used: Factory, Abstract Factory, Singleton, Proxy, Observer, Flyweight, State, Decorator, Strategy, Visitor and more. The project is written in Java and some code in AspectJ, as required.
 
 ## Develop by:
 
